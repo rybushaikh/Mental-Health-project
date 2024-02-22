@@ -1,6 +1,6 @@
 # Mental-Health-project
 # Data Analysis and Insights Project
-# This project aims to analyze and gain insights from a dataset containing various health-related variables. The dataset includes information on mental health, physical activity, smoking habits, COVID-19 status, demographic characteristics, and more.
+This project aims to analyze and gain insights from a dataset containing various health-related variables. The dataset includes information on mental health, physical activity, smoking habits, COVID-19 status, demographic characteristics, and more.
 
 # Key Features:
 Data Cleaning: The dataset undergoes thorough cleaning to handle missing values, remove duplicates, and format data types appropriately.
